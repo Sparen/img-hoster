@@ -7,4 +7,5 @@ In this repository are two folders: public and private. Please refrain from usin
 
 All of the images in this folder are of my own creation or are of the creation of myself and/or other contributors.
 
+As of June 20, 2018, all frequent-use items have been migrated to AWS S3 due to access limits being exceeded constantly. Infrequently accessed items and backups will remain in this repository.
 
